@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.box{
+    height: 1100px;
+    width: 1000px;
+}
+#main{
+    height: 1050px;
+    width: 1000px;
+}
+#man{
+    height: 260px;
+    width: 70px;
+
+
+    background-image: url(../images/1.png);
+    
+}
